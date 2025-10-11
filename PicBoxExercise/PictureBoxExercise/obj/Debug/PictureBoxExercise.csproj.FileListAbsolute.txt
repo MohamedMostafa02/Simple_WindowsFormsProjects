@@ -1,0 +1,21 @@
+D:\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe.config
+D:\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe
+D:\PictureBoxExercise\bin\Debug\PictureBoxExercise.pdb
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.AssemblyReference.cache
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.Form1.resources
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.Properties.Resources.resources
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.GenerateResource.cache
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.CoreCompileInputs.cache
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.exe
+D:\PictureBoxExercise\obj\Debug\PictureBoxExercise.pdb
+D:\C# Projects\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe.config
+D:\C# Projects\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe
+D:\C# Projects\PictureBoxExercise\bin\Debug\PictureBoxExercise.pdb
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.AssemblyReference.cache
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.exe.config
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.Form1.resources
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.Properties.Resources.resources
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.GenerateResource.cache
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.CoreCompileInputs.cache
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.exe
+D:\C# Projects\PictureBoxExercise\obj\Debug\PictureBoxExercise.pdb
