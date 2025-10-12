@@ -1,0 +1,21 @@
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.AssemblyReference.cache
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.Form1.resources
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.Properties.Resources.resources
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.GenerateResource.cache
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.CoreCompileInputs.cache
+D:\ComboBoxExercise\bin\Debug\ComboBoxExercise.exe.config
+D:\ComboBoxExercise\bin\Debug\ComboBoxExercise.exe
+D:\ComboBoxExercise\bin\Debug\ComboBoxExercise.pdb
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.exe
+D:\ComboBoxExercise\obj\Debug\ComboBoxExercise.pdb
+D:\C# Projects\ComboBoxExercise\bin\Debug\ComboBoxExercise.exe.config
+D:\C# Projects\ComboBoxExercise\bin\Debug\ComboBoxExercise.exe
+D:\C# Projects\ComboBoxExercise\bin\Debug\ComboBoxExercise.pdb
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.AssemblyReference.cache
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.exe.config
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.Form1.resources
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.Properties.Resources.resources
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.GenerateResource.cache
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.csproj.CoreCompileInputs.cache
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.exe
+D:\C# Projects\ComboBoxExercise\obj\Debug\ComboBoxExercise.pdb
